@@ -1,6 +1,6 @@
 # Band Name Generator
 
-This project is a simple web application called "Band Name Generator" that generates random band names. It utilizes HTML, CSS, JavaScript, Node.js, Express.js, and EJS (Embedded JavaScript) as technologies.
+This project is a simple web application called "Band Name Generator" that generates random band names. It utilizes CSS, JavaScript, Node.js, Express.js, and EJS (Embedded JavaScript) as technologies.
 
 ## Features
 
